@@ -8,6 +8,12 @@ I used React and Sass to build out my recreation of Netflix's homepage
 
 ![alt text](https://github.com/KabakaWilliam/Netflix-UI/blob/main/FrontEnd.png)
 
+# To run app
+### In your terminal cd into the directory with the files and type in
+```
+npm start
+```
+
 <h2>Features To Add</h2>
 1. I will add authentication to the App <br/>
 2. Each time the page is refreshed, it will pull up a random featured movie, movie cards and description from either Quentin Tarantino or Wes Anderson. <br/>
